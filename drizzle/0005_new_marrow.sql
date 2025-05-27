@@ -1,0 +1,2 @@
+ALTER TABLE `appointments` MODIFY COLUMN `created_at` datetime NOT NULL DEFAULT '2025-05-26 21:21:46.362';--> statement-breakpoint
+ALTER TABLE `reviews` MODIFY COLUMN `created_at` datetime NOT NULL DEFAULT '2025-05-26 21:21:46.362';
